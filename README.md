@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=FFD700&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+👋;I'm+Nada+Ibrahim!;Front-End+Developer+%7C+CS+Student;AI+Enthusiast+%7C+Tech+Writer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=FFD700&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+👋;I'm+Nada+Ibrahim!;CS+%26+AI+Student+%7C+Software engineer;" alt="Typing Animation" />
 </h1>
 
 <p align="center">
@@ -18,12 +18,11 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-🎓 **Computer Science and Artificial Intelligence** student at Cairo University (CLass of 2026)  
-💻 **Frontend Developer** with passion for building beautiful, responsive interfaces  
-🚀 **Tech Enthusiast** exploring AI, mobile development, and cloud technologies  
-✍️ **Technical Writer** sharing knowledge through blogs and tutorials  
-
-🔭 Currently focus on: **Data Engineering track**  
+🎓 **Computer Science & Artificial Intelligence student** at Cairo University (Class of 2026)  
+📱 **Flutter & Frontend Developer** building cross-platform mobile and web apps  
+🗂️ Strong focus on **Backend Development**, **Spring Boot**, **PHP**, and **Data Warehousing**  
+💡 Working on **ETL pipelines**, **LMS**, **HR systems**, and **smart data solutions**  
+✨ Passionate about **clean code**, **good UI/UX**, **project management**, and **knowledge sharing**
 
 ---
 
@@ -32,7 +31,6 @@
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -40,16 +38,21 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🖥 Backend & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-007ACC?style=for-the-badge&logo=databricks&logoColor=white)
 
-### 🛠 Tools & Platforms
+### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-02569B?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ---
 
@@ -67,6 +70,8 @@
 
 </div>
 
+---
+
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -75,12 +80,6 @@
   </a>
   <a href="mailto:naadebrahim625@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://medium.com/@yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
 
