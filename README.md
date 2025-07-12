@@ -6,8 +6,7 @@
 
 <p align="center">
   🌟 Computer and Artificial Intelligence Student at Cairo University (Class of 2026)  
-  🚀 Front-End Developer | Flutter & React Enthusiast  
-  📚 Coding Instructor at <strong>DEMI</strong> | Flutter Trainee at <strong>AIMATRIX</strong>  
+  🚀 Software Engineer
 </p>
 
 <p align="center">
