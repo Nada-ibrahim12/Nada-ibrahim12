@@ -59,7 +59,13 @@
 
 <div align="center">
   
-
+  ![Nada's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nada-Ibrahim12&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nada-Ibrahim12&layout=compact&theme=radical&hide_border=true&langs_count=6)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nada-Ibrahim12&theme=radical&hide_border=true)
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=Nada-Ibrahim12&theme=radical&no-frame=true&row=2&column=3)
 </div>
 
 ---
